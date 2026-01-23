@@ -1,0 +1,16 @@
+{
+  "name": "dnd-campaign-manager",
+  "version": "1.0.0",
+  "description": "Gestionnaire de campagne D&D avec authentification",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.263.1",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
